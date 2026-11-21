@@ -18,7 +18,7 @@ A simple and interactive web app to track, categorize, and visualize personal ex
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kareen600/expense-data-visualizer.git](https://github.com/kareen600/expense-data-visualizer.git)
+   git clone https://github.com/kareen600/expense-data-visualizer.git
    cd expense-data-visualizer
 2. **Install the required libraries:**
    ```bash
