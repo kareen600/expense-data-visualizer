@@ -27,7 +27,7 @@ A simple and interactive web app to track, categorize, and visualize personal ex
    ```bash
    streamlit run main.py
 
-   ## Project Files
+## Project Files
 - `main.py` — Main application code.
 - `categories.json` — Saved categories and merchant keywords.
 - `requirements.txt` — List of Python libraries needed to run the app.
